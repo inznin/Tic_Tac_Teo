@@ -1,5 +1,5 @@
 # game(XO)
-# ABZUMS AI Course - Part 3 - Class Project 1
+# ABZUMS AI Course - Part 3 
 # Naznin Hoseini
 
 # .:: step1:Initialize the Game Board 🎲 ::.
