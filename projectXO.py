@@ -110,19 +110,3 @@ while True :
     
     
     current_player = flip(current_player)    
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
